@@ -1,27 +1,23 @@
 # Wagyourtail
 
-<!--
-**wagyourtail/wagyourtail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me!
 
-Here are some ideas to get you started:
+Hi, I'm William Gray, a Computer Enginnering Student at Embry-Riddle in Prescott Arizona.
+I am currently in my Junior year.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently don't have a job, but if anyone knows of any opportunities in my field (or Software Engineering, or a related field) pease feel free to reach out to me at [my email](mailto:wagyourtail@wagyourtail.xyz)
 
-[![Wagyourtail's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagyourtail)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagyourtail&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I use arch, btw.
 
-## Join Me!
-[<img src="https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png" height="50"/>](https://discord.gg/P6W58J8)
+## Some fun statistics stuff!
 
-## Support Me!
+[![Metrics](https://metrics.lecoq.io/wagyourtail?template=classic&gists=1&lines=1&languages=1&notable=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FDenver)](https://metrics.lecoq.io/)
+
+## Support My Open Source Projects!
 
 [<img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d5cf697cee7ca5b65d9_Button-p-500.png" height="50"/>](https://ko-fi.com/wagyourtail)
 [<img src="https://github.com/wagyourtail/wagyourtail/blob/main/patreon.png?raw=true" height="50">](https://www.patreon.com/wagyourtail)
+
+## Connect to me and the comminity around my Open Source Projects!
+
+[<img src="https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png" height="50"/>](https://discord.gg/P6W58J8)
