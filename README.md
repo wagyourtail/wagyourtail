@@ -3,7 +3,7 @@
 ## About Me!
 
 Hi, I'm William Gray, a Computer Enginnering Student at Embry-Riddle in Prescott Arizona.
-I am currently in my Junior year.
+I am currently in my Senior year.
 
 <!--I currently don't have a job, but if anyone knows of any opportunities in my field (or Software Engineering, or a related field) pease feel free to reach out to me at [my email](mailto:wagyourtail@wagyourtail.xyz)!-->
 I use arch, btw.
