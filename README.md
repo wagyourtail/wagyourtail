@@ -5,6 +5,8 @@
 Hi, I'm William Gray, a Computer Enginnering Student at Embry-Riddle in Prescott Arizona.
 I am currently in my Senior year.
 
+I work on many open source projects, such as my minecraft mods; [JsMacros](https://github.com/jsmacros/jsmacros), [wagyourminimap](https://github.com/wagyourorg/wagyourminimap) and more
+
 <!--I currently don't have a job, but if anyone knows of any opportunities in my field (or Software Engineering, or a related field) pease feel free to reach out to me at [my email](mailto:wagyourtail@wagyourtail.xyz)!-->
 I use arch, btw.
 
