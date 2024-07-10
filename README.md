@@ -2,7 +2,7 @@
 
 ## About Me!
 
-Hi, I'm William Gray, a Computer Enginner.
+Hi, I'm William Gray, a Computer Engineer.
 I went to college at Embry-Riddle in Prescott Arizona.
 
 I work on many open source projects
