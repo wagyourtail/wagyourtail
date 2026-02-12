@@ -10,7 +10,7 @@ I work on many open source projects
 <!--I currently don't have a job, but if anyone knows of any opportunities in my field (or Software Engineering, or a related field) pease feel free to reach out to me at [my email](mailto:wagyourtail@wagyourtail.xyz)!-->
 I use arch, btw.
 
-I thought of my uesrname when I was 9 and playing [transformice](https://www.transformice.com/) and couldn't think of a better once since; now I'm kinda stuck with it.
+I thought of my username when I was 9 and playing [transformice](https://www.transformice.com/) and couldn't think of a better once since; now I'm kinda stuck with it.
 
 ## Some fun statistics stuff!
 
